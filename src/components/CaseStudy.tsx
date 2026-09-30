@@ -11,7 +11,7 @@ export default function CaseStudy({ slug }: { slug: string }) {
   const { c, num, total, lead, gallery, steps, prev, next } = buildCaseView(slug);
 
   useEffect(() => {
-    document.title = `${c.title} — Blessing Adewuyi`;
+    document.title = `${c.title}, Blessing Adewuyi`;
   }, [c.title]);
 
   return (
@@ -129,7 +129,7 @@ export default function CaseStudy({ slug }: { slug: string }) {
       </nav>
 
       <footer className="flex flex-wrap justify-between gap-3 border-t border-line pt-6 pb-10 font-mono text-[12px] text-dim">
-        <span>Blessing Adediwura Adewuyi — Lagos, Nigeria</span>
+        <span>Blessing Adediwura Adewuyi, Lagos, Nigeria</span>
         <a
           href="https://linkedin.com/in/blessing-adewuyi"
           target="_blank"

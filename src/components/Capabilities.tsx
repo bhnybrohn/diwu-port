@@ -7,7 +7,7 @@ export default function Capabilities() {
       id="capabilities"
       className="border-t border-line py-[clamp(48px,6vw,88px)]"
     >
-      <SectionLabel className="mb-8">03 — Capabilities</SectionLabel>
+      <SectionLabel className="mb-8">03 Capabilities</SectionLabel>
       <div className="flex flex-col">
         {skills.map((s) => (
           <div

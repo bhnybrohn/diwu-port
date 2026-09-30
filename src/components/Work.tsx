@@ -4,9 +4,9 @@ import { groups } from "../data";
 export default function Work() {
   return (
     <section id="work" className="border-t border-line py-[clamp(48px,6vw,88px)]">
-      <SectionLabel className="mb-5">04 — Systems Case Studies</SectionLabel>
+      <SectionLabel className="mb-5">04 Systems Case Studies</SectionLabel>
       <p className="mb-12 max-w-[720px] text-pretty text-[clamp(20px,2vw,26px)] leading-[1.4] tracking-[-0.01em]">
-        A closer look at the automation and CRM work behind the CX practice —
+        A closer look at the automation and CRM work behind the CX practice.
         across Monday.com, Airtable, GoHighLevel, Zapier, and Make.com.
       </p>
       <div className="flex flex-col gap-12">

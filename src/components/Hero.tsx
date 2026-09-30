@@ -9,7 +9,7 @@ export default function Hero() {
       </h1>
       <p className="m-0 max-w-[600px] text-pretty text-[clamp(17px,1.5vw,20px)] leading-[1.55] text-muted">
         Customer support specialist with 2+ years across LegalTech SaaS,
-        research tech, and creative services — now building the CRM and AI
+        research tech, and creative services, now building the CRM and AI
         automations that keep support fast, consistent, and human.
       </p>
     </header>

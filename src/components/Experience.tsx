@@ -7,7 +7,7 @@ export default function Experience() {
       id="experience"
       className="border-t border-line py-[clamp(48px,6vw,88px)]"
     >
-      <SectionLabel className="mb-3">02 — Experience</SectionLabel>
+      <SectionLabel className="mb-3">02 Experience</SectionLabel>
       <p className="mb-8 text-[15px] text-dim">
         Roles that shaped how she thinks about customers, systems, and service.
       </p>

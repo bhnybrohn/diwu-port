@@ -9,7 +9,7 @@ import Contact from "./Contact";
 
 export default function Portfolio() {
   useEffect(() => {
-    document.title = "Blessing Adewuyi — Customer Support, CRM & AI Automation";
+    document.title = "Blessing Adewuyi, Customer Support, CRM & AI Automation";
   }, []);
 
   return (

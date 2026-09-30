@@ -37,10 +37,10 @@ export const roles: Role[] = [
     when: "2025",
     role: "Customer Support Officer",
     company: "Mita Technologies",
-    desc: "Handled 30+ daily inquiries across WhatsApp, email, and live chat for academic and research clients, kept 100% follow-up coverage on assigned tickets, and helped revise support workflows that improved response times by 20%.",
+    desc: "Handled 30+ daily inquiries across WhatsApp, email, and live chat for academic and research clients, kept 100% follow up coverage on assigned tickets, and helped revise support workflows that improved response times by 20%.",
   },
   {
-    when: "2024–25",
+    when: "2024 to 2025",
     role: "Customer Operations & Service Delivery Lead",
     company: "Kaizen Stoodios",
     desc: "Primary point of contact for clients at a creative design studio, coordinating clients, vendors, and creative teams from brief to final delivery, and introducing workflow tools that improved project tracking and delivery consistency.",
@@ -55,26 +55,26 @@ export const roles: Role[] = [
     when: "2023",
     role: "Graduate Trainee, Customer Support",
     company: "LawPavilion Business Solutions",
-    desc: "Delivered multi-channel support, guided new customers through setup and early product use, and tracked client issues through to resolution in the CRM.",
+    desc: "Delivered support across multiple channels, guided new customers through setup and early product use, and tracked client issues through to resolution in the CRM.",
   },
   {
     when: "2023",
     role: "Retail Sales Executive",
     company: "Allianz Insurance",
-    desc: "Presented insurance products to individual and small-business clients, explained policy terms, and provided post-sale and claims support.",
+    desc: "Presented insurance products to individual and small business clients, explained policy terms, and provided post sale and claims support.",
   },
   {
-    when: "2021–22",
+    when: "2021 to 2022",
     role: "Junior Officer (NYSC)",
     company: "Ministry of Women Affairs & Social Inclusion",
-    desc: "Tracked and documented welfare cases, supported inter-departmental communication, and introduced case-sorting methods that sped up record retrieval.",
+    desc: "Tracked and documented welfare cases, supported inter departmental communication, and introduced case sorting methods that sped up record retrieval.",
   },
 ];
 
 export const skills: Skill[] = [
   {
     title: "Customer support & issue resolution",
-    desc: "High-volume, multi-channel support across email, chat, phone, and WhatsApp, with clear escalation and follow-through until the customer is sorted.",
+    desc: "High volume, multi channel support across email, chat, phone, and WhatsApp, with clear escalation and follow through until the customer is sorted.",
   },
   {
     title: "Onboarding & account retention",
@@ -82,7 +82,7 @@ export const skills: Skill[] = [
   },
   {
     title: "CRM & AI automation",
-    desc: "Building workflows in Airtable, Monday.com, GoHighLevel, Zapier, and Make.com — including AI-assisted replies with Google Gemini — that remove manual handling from support.",
+    desc: "Building workflows in Airtable, Monday.com, GoHighLevel, Zapier, and Make.com, including AI assisted replies with Google Gemini, that remove manual handling from support.",
   },
   {
     title: "Process documentation",
@@ -109,7 +109,7 @@ const rawCases: RawCase[] = [
   [
     "ordering-workflow",
     "Monday.com",
-    "Process Mapping a Full-Cycle Ordering Workflow",
+    "Process Mapping a Full Cycle Ordering Workflow",
     "Process Mapping & Automation",
     orderFlowchart,
   ],
@@ -137,7 +137,7 @@ const rawCases: RawCase[] = [
   [
     "lead-segmentation",
     "GoHighLevel",
-    "Segmenting Leads for Faster Follow-Up",
+    "Segmenting Leads for Faster Follow Up",
     "CRM Segmentation",
     ghlContacts,
   ],
@@ -145,7 +145,7 @@ const rawCases: RawCase[] = [
     "guest-inquiry-routing",
     "Zapier",
     "Automating Guest Inquiry Routing & Acknowledgment",
-    "Workflow Automation — Lovre Homes",
+    "Workflow Automation, Lovre Homes",
     null,
   ],
   [
