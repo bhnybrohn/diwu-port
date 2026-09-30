@@ -5,6 +5,7 @@ import airtableSales from "./assets/airtable-sales.jpeg";
 import requestAutomations from "./assets/request-automations.jpeg";
 import ghlContacts from "./assets/ghl-contacts.jpeg";
 import makeScenario from "./assets/make-scenario.jpeg";
+import lovreZapierWorkflow from "./assets/lovre-zapier-workflow.jpeg";
 
 export type NavItem = { label: string; href: string; num: string };
 export type Role = { when: string; role: string; company: string; desc: string };
@@ -146,7 +147,7 @@ const rawCases: RawCase[] = [
     "Zapier",
     "Automating Guest Inquiry Routing & Acknowledgment",
     "Workflow Automation, Lovre Homes",
-    null,
+    lovreZapierWorkflow,
   ],
   [
     "policy-support-ai",
